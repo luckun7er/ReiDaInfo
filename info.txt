@@ -1,0 +1,55 @@
+Informações importantes para o novo site
+
+
+Pagina index (Menu) Deve conter a nova navegação em sessões para o site.
+
+Programar primeiro a versão do site para os Dispositivos moveis e só depois aplicar a responsividade do site para Tablets e Desktops. Subir o projeto final no Github para apresentação.
+
+..:: - Inicio (Home) - ::..
+  Sua solução em tecnologia
+
+..:: - Portifolio - ::..
+  Link para o Arquivo PDF com os dados do Portifolio da Empresa
+
+..:: - Sobre - ::..
+  Sobre
+    A REI DA INFO nasceu em 2007 na cidade de Resende/RJ, visando atender a demanda de tecnologia daquele momento na região. Porém, ao longo do tempo, veio aprimorando seus serviços e produtos a fim de atender um mercado cada vez mais exigente e dinâmico, focando, portanto, desde 2015 em sistemas de gestão e emissão de notas, marketing digital, emissão de certificado digital e ainda informática.
+
+  Missão
+    Entregar as melhores soluções do mercado combinando o custo benefício com a necessidade do cliente.Entregar as melhores soluções do mercado combinando sempre o melhor custo x benefício com a necessidade do cliente.
+
+  Visão
+    Ser reconhecida como a melhor opção por clientes colaboradores, comunidade, fornecedores e investidores, pela qualidade de nossos produtos, serviços e relacionamentos.
+
+  Valores
+    Satisfação do cliente, pois ele é a razão da existência de qualquer negócio. Valorização e respeito às pessoas, pois são elas o grande diferencial que torna tudo possível.
+    Responsabilidade social e ao meio ambiente, pois é a única forma de crescer em uma sociedade mais justa e limpa.
+
+..:: - Empresas - ::..
+  Logo das empresas que usam os serviços Rei da Info:
+    Ecoville Resende
+    Santa Rita
+    VirtualSat
+    Padaria Atlas
+    Mercado Netinho
+    Supermercado IdealMax 2 Irmãos
+
+..:: - Serviços - ::..
+  Todos os serviços que a empresa presta:
+    Marketing Digital
+    Sistemas de Emissão de NFe's
+    Relogio de ponto
+    Informática
+
+..:: - Contatos - ::..
+  Link com o botão para o whatsapp
+  Numero do SAQ
+  Endereço
+  Email
+
+..:: - Rodapé - ::..
+  Logo
+  Os direitos de uso
+  Icone das redes sociais
+
+Apresentar o novo site para o Thiago em dois temas: Dark e Light. Após apresentar o novo site oferecer a proposta de criação de sites como um serviço a mais para os nossos clientes. Sugerir uma comisão por sites programados de 25% + o Salario base de R$ 1500,00 reais Continuar com os servições normais de suporte remoto + Plantão + Designer de Artes.
